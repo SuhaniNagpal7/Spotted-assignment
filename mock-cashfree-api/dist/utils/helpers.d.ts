@@ -1,0 +1,14 @@
+export declare const generateId: () => string;
+export declare const generateTransferId: () => string;
+export declare const generateUTR: () => string;
+export declare const generateBeneId: () => string;
+export declare const maskAccountNumber: (accountNumber: string) => string;
+export declare const simulateDelay: (ms?: number) => Promise<void>;
+export declare const generateRandomTransactionStatus: () => "SUCCESS" | "FAILED";
+export declare const validateIFSC: (ifsc: string) => boolean;
+export declare const validateAccountNumber: (accountNumber: string) => boolean;
+export declare const validateEmail: (email: string) => boolean;
+export declare const validatePhone: (phone: string) => boolean;
+export declare const formatCurrency: (amount: number) => string;
+export declare const getTransactionFailureReason: () => string;
+//# sourceMappingURL=helpers.d.ts.map

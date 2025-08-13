@@ -1,0 +1,8 @@
+{
+  "/notifications/page": "app/notifications/page.js",
+  "/withdraw/page": "app/withdraw/page.js",
+  "/dashboard/page": "app/dashboard/page.js",
+  "/login/page": "app/login/page.js",
+  "/transactions/page": "app/transactions/page.js",
+  "/bank-accounts/page": "app/bank-accounts/page.js"
+}

@@ -2,6 +2,12 @@
 
 A comprehensive full-stack web application for secure wallet management and bank transfers, featuring a React/Next.js frontend and Node.js backend with mock Cashfree Payout API integration.
 
+<img width="1898" height="862" alt="image" src="https://github.com/user-attachments/assets/235fa0a7-da72-400d-af60-06ae457671b2" />
+<img width="1868" height="838" alt="image" src="https://github.com/user-attachments/assets/cbf81e29-d7e2-4fa1-8e79-b312e8a6b293" />
+<img width="1364" height="866" alt="image" src="https://github.com/user-attachments/assets/16b5989e-2815-41d5-a0e4-8f4323a75a9b" />
+<img width="1236" height="846" alt="image" src="https://github.com/user-attachments/assets/7e101fd6-84b8-4ff4-a4b8-1120c36f1066" />
+
+
 
 ## ✨ Features
 
